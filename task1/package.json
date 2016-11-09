@@ -1,0 +1,14 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "homework for lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Zahornyi",
+  "license": "ISC",
+  "dependencies": {
+    "skb": "^1.0.0"
+  }
+}
